@@ -15,3 +15,4 @@ speech conversion by integrating sophisticated emotion recognition and voice mod
 audiobook conversion. By harnessing the power of ML, our software empowers users to
  effortlessly produce high-quality audiobook versions of prose, stories, and books, distin
 guished by their emotive depth and lifelike narration
+![t](https://github.com/user-attachments/assets/1aa696ce-6cea-4183-b2df-c25431417877)
